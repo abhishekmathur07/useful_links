@@ -115,6 +115,14 @@ https://www.youtube.com/watch?v=gAI218HSK8s&list=PLx-q4INfd95G-wrEjKDAcTB1K-8n1s
 https://www.youtube.com/watch?v=KBzcDjanADU
 
 
+## InQueue
+https://claude.ai/chat/4d4c9057-ee84-4cba-a41a-34454b43e5bd
+https://www.youtube.com/watch?v=yE6tIle64tU
+file:///Users/abhishekkumar/Desktop/Grokking%20Algorithms.pdf
+https://www.linkedin.com/notifications/?filter=jobs_all
+
+
+
 
 ## My_website_server
 https://eu-north-1.console.aws.amazon.com/ec2/home?region=eu-north-1#Home:
