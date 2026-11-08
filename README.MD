@@ -116,9 +116,11 @@ https://www.youtube.com/watch?v=z9ntgtuB1DE&list=PLu0W_9lII9ah7DDtYtflgwMwpT3xmj
 https://www.youtube.com/watch?v=gAI218HSK8s&list=PLx-q4INfd95G-wrEjKDAcTB1K-8n1sIiz
 https://www.youtube.com/watch?v=KBzcDjanADU
 
+## My_website_server
+
+https://eu-north-1.console.aws.amazon.com/ec2/home?region=eu-north-1#Home:
 
 ## InQueue
-
 
 https://mail.google.com/mail/u/0/#inbox
 https://github.com/abhishekmathur07
@@ -132,5 +134,3 @@ https://www.linkedin.com/notifications/?filter=jobs_all
 
 
 
-## My_website_server
-https://eu-north-1.console.aws.amazon.com/ec2/home?region=eu-north-1#Home:
