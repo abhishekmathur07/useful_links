@@ -101,6 +101,8 @@ https://top.host/
 
 
 ## django_developer
+
+
 https://www.youtube.com/watch?v=rKNSc8RrwxA&list=PL6XT0grm_TfgtwtwUit305qS-HhDvb4du
 https://unsplash.com/
 http://127.0.0.1:8000/
@@ -116,6 +118,12 @@ https://www.youtube.com/watch?v=KBzcDjanADU
 
 
 ## InQueue
+
+
+https://mail.google.com/mail/u/0/#inbox
+https://github.com/abhishekmathur07
+https://leetcode.com/problems/two-sum/description/
+https://www.upwork.com/nx/s/find-work/
 https://claude.ai/chat/4d4c9057-ee84-4cba-a41a-34454b43e5bd
 https://www.youtube.com/watch?v=yE6tIle64tU
 file:///Users/abhishekkumar/Desktop/Grokking%20Algorithms.pdf
